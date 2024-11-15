@@ -5,7 +5,8 @@ This Python [application](https://leoncensh-health-stocks.hf.space) allows users
 This tool provides an intuitive way for business users and analysts to quickly visualize key technical indicators without needing deep expertise in coding or data processing, making stock analysis more accessible and engaging.
 
 
-**Exhibit 1. HCA Corporation -- Simple Moving Average**
+**Exhibit 1. UnitedHealth Group -- Simple Moving Average**
+![image](https://github.com/user-attachments/assets/26f73ff9-30ee-4805-9a40-815aa5515dbe)
 
 
 ## Customize this Application with your own Stock List

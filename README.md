@@ -1,13 +1,12 @@
-# U.S. Energy Equities Market Technical Indicator Visualization 
+# U.S. Healthcare Stocks and ETFs Technical Indicator Visualization 
 
-This Python [application](https://leoncensh-energy.hf.space) allows users to visualize stock data and technical indicators **(SMA, MACD, RSI, Bollinger Bands)** for selected companies. The app fetches historical stock data using Yahoo Finance, computes various technical indicators, and displays the plots interactively through a Gradio interface.
+This Python [application](https://leoncensh-health-stocks.hf.space) allows users to visualize stock data and technical indicators **(SMA, MACD, RSI, Bollinger Bands)** for selected companies. The app fetches historical stock data using Yahoo Finance, computes various technical indicators, and displays the plots interactively through a Gradio interface.
 
 This tool provides an intuitive way for business users and analysts to quickly visualize key technical indicators without needing deep expertise in coding or data processing, making stock analysis more accessible and engaging.
 
 
-**Exhibit 1. Hess Corporation -- Simple Moving Average**
+**Exhibit 1. HCA Corporation -- Simple Moving Average**
 
-![image](https://github.com/user-attachments/assets/d07415f3-59c2-4915-b59a-9b8b08ea7339)
 
 ## Customize this Application with your own Stock List
 
@@ -47,15 +46,11 @@ You can modify the `COMPANY_TICKERS` dictionary in the Python file to add or rem
 
 ```python
 COMPANY_TICKERS = {
-    'Constellation Energy Corp': 'CEG',
-    'Chevron Corporation': 'CVX',
-    'Total Energies': 'TTE',
-    'Exxon Mobil': 'XOM',
-    'BP': 'BP',
-    'Royal Dutch Shell': 'SHEL',
-    'ConocoPhillips': 'COP',
-    # Add more companies here...
+     'UnitedHealth': 'UNH',
+     'Johnson & Johnson': 'JNJ',
+     'Amgen': 'AMGN',
+     'Merck': 'MRK',
+     # Add more companies here...
 }
 ```
-![image](https://github.com/user-attachments/assets/dbb609f8-d745-41e0-8d75-c0b372acd14f)
 

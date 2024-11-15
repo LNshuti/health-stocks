@@ -14,7 +14,7 @@ This tool provides an intuitive way for business users and analysts to quickly v
 ### Clone this Repository
 
 ```bash
-git clone https://github.com/LNshuti/energy.git
+git clone https://github.com/LNshuti/health-stocks.git
 ```
 
 ### Setup your Environment
